@@ -1,4 +1,5 @@
-const fs = require('fs')// test_file.txtというファイルを作成し、データを書き込む。
+// fs(file system)というライブラリーをロードする。
+const fs = require('fs')
 
 let total = 0; // totalの初期値は0
 // for文の実行フロー
